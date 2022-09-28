@@ -7,5 +7,5 @@
 
 import Foundation
 class Module {
-    var name: String = ""
+    var name: String = "push1"
 }
