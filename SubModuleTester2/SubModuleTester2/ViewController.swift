@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        let _ = "submodule is nothing to submit 9."
+        let _ = "submodule is nothing to submit 10."
     }
 }
 
